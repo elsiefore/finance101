@@ -109,3 +109,27 @@
   - Growing perpetuity: series of payments growing at steady rate forever.
 
 ## Diversification
+
+1. Diversification Opportunities
+
+- Risk can be hedged away through diversification strategies.
+- There is diversification advantage when assets are uncorrelated.
+- Idiosyncratic risk, or residual risk, one that is not dependent on broad market returns, aggregate income, unemployment rate etc. Therefore something that lends itself best to a diversification strategy.
+- Portfolio/efficient frontier: Return % vs Risk % (standard deviation), any investment above the efficient frontier is not possible. The closer the investment approaches the top-left of the graph, the more it will be preferred.
+
+2. Portfolio Volatility
+
+- Calculate the correlation bewteen two assets:
+  - from statistics
+- Portfolio volatility:
+  - Two securities A and B, with weight w and standard deviation sigma and covariance Q.
+  - Variance of the portfolio = w<sub>A</sub><sup>2</sup>sigma<sub>A</sub><sup>2</sup> + w<sub>B</sub><sup>2</sup>sigma<sub>B</sub><sup>2</sup> + 2w<sub>A</sub><sup>2</sup>w<sub>B</sub><sup>2</sup>sigma<sub>A</sub><sup>2</sup>sigma<sub>B</sub><sup>2</sup>Q
+  - Volatility is the squre root of portfolio variance.
+- Since all assets are related in a systematic way, it is only possible to reduce the overall volatility to a certain level.
+
+3. Time-varying Correlations
+
+- When investing many assets at the same time, the dynamic correlations between these assets' returns over time are also very important.
+- When changing correlations between asset returns are high, loss in one asset is likely to be accompanies by loss in others.
+
+## CAPM
