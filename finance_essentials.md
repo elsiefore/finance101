@@ -113,6 +113,7 @@
 1. Diversification Opportunities
 
 - Risk can be hedged away through diversification strategies.
+- Systematic risk cannot be diverisified away.
 - There is diversification advantage when assets are uncorrelated.
 - Idiosyncratic risk, or residual risk, one that is not dependent on broad market returns, aggregate income, unemployment rate etc. Therefore something that lends itself best to a diversification strategy.
 - Portfolio/efficient frontier: Return % vs Risk % (standard deviation), any investment above the efficient frontier is not possible. The closer the investment approaches the top-left of the graph, the more it will be preferred.
@@ -133,3 +134,23 @@
 - When changing correlations between asset returns are high, loss in one asset is likely to be accompanies by loss in others.
 
 ## CAPM
+
+1. Introduction
+
+- Capital asset pricing model, used to determine a theoretically appropriate required rate of return of an asset.
+- **Standard deviation** measures the total risk of an asset while **beta** only measures its contribution to systematic risk.
+- CAPM implies the asset is to be added to an already well diversified portfolio.
+- Systematic risk is captured by the co-movement of an asset with the market.
+- **beta**:
+  - It signfies whether the investment is more volatile than the market.
+  - beta = 0: unaffected by the market.
+  - beta < 0: inverse relation to the market.
+  - beta < 1: less volatile than the market.
+  - beta > 1: more volatile than the market.
+  - Expected returns are related to beta and not to standard deviation or variance.
+
+2. Calculating Beta
+
+- beta<sub>i</sub> = cov(R<sub>i</sub>, R<sub>m</sub>) / var(R<sub>m</sub>)
+  - m: market
+- Can be modelled using linear regression. The returns of the investment as y and market returns as x.
